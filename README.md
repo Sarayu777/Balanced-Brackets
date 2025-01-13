@@ -1,3 +1,6 @@
+
+#1BM23AI171
+#NAME - SARAYU KS
 #balanced brackets 
 def is_balanced(s):
     stack = []
